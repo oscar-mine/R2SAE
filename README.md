@@ -64,7 +64,7 @@ The vulnerability exists in how Next.js handles multipart form data in Server Ac
 ## 📦 Installation
 
 ### Option 1: Install Signed XPI (Recommended)
-1. Download the signed `.xpi` from [Releases](https://github.com/oscarmine/R2SAE/releases)
+1. Download the signed `.xpi` from [Releases](https://github.com/oscar-mine/R2SAE/releases)
 2. Open Firefox and drag the `.xpi` file into the browser window
 3. Click "Add" when prompted
 4. The extension icon will appear in your toolbar
@@ -177,14 +177,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Credits
 
 - Original vulnerability research and Python POC by security researchers
-- Extension developed by [oscarmine](https://github.com/oscarmine)
+- Extension developed by [oscar-mine](https://github.com/oscar-mine)
 
 ---
 
 ## 📞 Contact
 
-- GitHub: [@oscarmine](https://github.com/oscarmine)
-- Project Link: [https://github.com/oscarmine/R2SAE](https://github.com/oscarmine/R2SAE)
+- GitHub: [@oscar-mine](https://github.com/oscar-mine)
+- Project Link: [https://github.com/oscar-mine/R2SAE](https://github.com/oscar-mine/R2SAE)
 
 ---
 
